@@ -1,0 +1,4 @@
+[submodule "_build/html"]
+	path = _build/html
+	url = git@github.com:number09/sphinx-ghp-test.git
+	branch = gh-pages
